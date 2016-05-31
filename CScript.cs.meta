@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e15e4606f44f4aa489faa96d6083d3f4
+timeCreated: 1448879614
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PreBattlefield: {fileID: 170214, guid: ec7c7243eba3a494e859b301d20ec725, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
